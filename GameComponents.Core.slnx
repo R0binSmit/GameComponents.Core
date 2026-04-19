@@ -1,3 +1,8 @@
 <Solution>
+  <Folder Name="/libs/" />
+  <Folder Name="/libs/EntityComponentSystem/" />
+  <Folder Name="/libs/EntityComponentSystem/src/">
+    <Project Path="libs/EntityComponentSystem/src/EntityComponentSystem/EntityComponentSystem.csproj" />
+  </Folder>
   <Project Path="src/GameComponents.Core/GameComponents.Core.csproj" Id="0753784d-5de4-45f7-b375-84b8969387fd" />
 </Solution>
