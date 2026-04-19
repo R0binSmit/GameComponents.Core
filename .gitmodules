@@ -1,0 +1,3 @@
+[submodule "libs/EntityComponentSystem"]
+	path = libs/EntityComponentSystem
+	url = https://github.com/R0binSmit/EntityComponentSystem
